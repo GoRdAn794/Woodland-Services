@@ -18,7 +18,7 @@ h1
 }
 .container-fluid
 {
-background: url("/home/cedcoss/Desktop/pic.jpg");
+background: url("pic.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 height: auto;
