@@ -1,0 +1,220 @@
+.hom1
+{
+	background-image: url("/home/cedcoss/Desktop/TeamProject/wood.jpg");
+	height:auto;
+	width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+
+}
+.imag
+{
+	height: 27%;
+}
+.head
+{
+	height:100px;
+	width: auto;
+	opacity: .7;
+
+}
+#s1
+{
+	width:100%;
+	height: auto;
+	background-color: black;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: auto;
+}
+.row
+{
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.first
+{
+font-size:20px;
+color: white;
+}
+.imag2
+{
+height: 190px;
+}
+h2{
+	font-family: 'Della Respira',Georgia,"Times New Roman",serif;
+	text-align: center;
+	font-size: 50px;
+    color: #333;
+}
+h5
+{
+	font-family: 'Della Respira',Georgia,"Times New Roman",serif;
+	text-align: center;
+	font-size: 25px;
+    color: #333;
+    font-weight: 500;
+    line-height: 1em;
+}
+#sect1
+{
+	background-color: #f3f3f3;
+	height:auto;
+	padding: 100px;
+	text-align: center;
+}
+h1
+{
+	    font-size: 45px;
+    color: #0c71c3;
+ font-family: 'Della Respira',Georgia,"Times New Roman",serif;
+}
+#sect2
+{
+	background-image: url("/home/cedcoss/Desktop/nat.jpg");
+	height: auto;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+.bl
+{
+	width: 100%;
+	background-color: black;
+}
+#s3
+{
+	background-color:#222222;
+	height: auto;
+	padding-left: 90px;
+}
+#foot
+{
+	background-color: black;
+	height: auto;
+	width: auto;
+	text-align: left;
+	padding-left: 150px;
+	color: white;padding-top: 40px;
+}
+.butn1{
+  border-radius: 4px;
+  border: none;
+  text-align: center;
+  font-size: 22px;
+  width: 190px;
+  transition: all 0.5s;
+  cursor: pointer;
+  color: #ffffff!important;
+  border-color: #4e943c;
+  background-color: #4e943c;
+  height: 55px;
+  margin-top: 60px;
+
+}
+
+.butn1 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.butn1 span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.butn1:hover span {
+  padding-right: 25px;
+}
+
+.butn1:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+.imag4
+{
+	 background-size: 100% 100px;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    z-index: 10;
+    transform: rotateY(180deg);
+    padding-top: 40px;
+
+}
+.imag5
+{
+	 background-size: 100% 100px;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    z-index: 10;
+    transform: rotateY(180deg);
+
+}
+.contain
+{
+	background-color: rgba(0,0,0,.75);
+	background-size: cover;
+	background-repeat: no-repeat;
+	width:100%;
+	height: 800px;
+
+}
+.row
+{
+	margin-left: 0px!important;
+	margin-right: 0px!important;
+}
+.svg1
+{
+	padding-top: 133px;
+}
+.butn2 {
+  border-radius: 4px;
+  background-color: transparent;
+  border: none;
+  text-align: center;
+  font-size: 26px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  height: 80px;
+  border: 1px solid black;
+  color: #ffffff!important;
+  border-color: #ffffff; 
+}
+
+.butn2 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.butn2 span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.butn2:hover span {
+  padding-right: 25px;
+}
+
+.butn2:hover span:after {
+  opacity: 1;
+  right: 0;
+}

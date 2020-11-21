@@ -1,0 +1,200 @@
+
+h1
+{
+	color: #fff!important;
+	font-family: 'Della Respira',Georgia,"Times New Roman",serif;
+	font-size: 80px;
+	padding: 140px;
+}
+.imag1
+{
+	background-size: 100% 100px;
+    bottom: 0;
+    height: 200px;
+    z-index: 1;
+    transform: rotateY(180deg);
+    width: 100%;
+
+}
+.container-fluid
+{
+background: url("/home/cedcoss/Desktop/pic.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+height: auto;
+padding-left: 0px!important;
+padding-right: 0px!important;
+}
+.contain
+{
+	width: 100%;
+	height: auto;
+	background-color: rgba(0,0,0,.5);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-top: 130px;
+}
+#sect1
+{
+background-image: linear-gradient(180deg,#4e943c 0%,#ffffff 100%)!important;
+height: auto;
+}
+p
+{
+font-family: 'Della Respira',Georgia,"Times New Roman",serif;
+text-align: center;
+    font-size: 30px;
+        color: #333;
+    font-weight: 500;
+    line-height: 1em;
+}
+#sect2
+{
+	height: auto;
+	text-align: center;
+}
+h3
+{
+font-family: 'Della Respira',Georgia,"Times New Roman",serif;
+    text-align: center;
+}
+.icon 
+{
+	
+	font-size: 50px;
+}
+.imag5
+{
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 300px;
+	width: 600px;
+	padding-right: 150px;
+	position: relative;
+
+}
+#sect3
+{
+	background-color: #4e943c!important;
+	height: auto;
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-top: 50px;
+	padding-top: 4%;
+	padding-left: 0px!important;
+	padding-right: 0px!important;
+	background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI1MHB4IiB2aWV3Qm94PSIwIDAgMTI4MCAxNDAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjQ1KSI+PHBhdGggZD0iTTMyMCAyOEMxNjAgMjggODAgNDkgMCA3MFYwaDEyODB2NzBjLTgwIDIxLTE2MCA0Mi0zMjAgNDItMzIwIDAtMzIwLTg0LTY0MC04NHoiLz48L2c+PC9zdmc+");
+	background-size: 100% 50px;
+    top: 0;
+    z-index: 10;
+}
+#sect4
+{
+
+	background-color:#222222;
+	height: auto;
+	padding-left: 90px;	
+}
+#foot
+{
+	background-color: black;
+	height:auto;
+	width: auto;
+	text-align: left;
+	padding-left: 150px;
+	color: white;
+	padding-top: 20px;
+
+}
+h2
+{
+	text-align: center;
+	font-family: 'Della Respira',Georgia,"Times New Roman",serif;
+}
+.button {
+  border-radius: 4px;
+  text-align: center;
+  width: 217px;
+  transition: all 0.5s;
+  cursor: pointer;
+  border: 2px solid;
+  display: inline-block;
+  margin-top: 20px;
+  position: relative;
+  height: 65px;
+  border-radius: 3px;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.7em!important;
+   color: #ffffff!important;
+  border-color: #ffffff;
+  margin-bottom: 60px;
+  margin-top: 60px;
+
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+  width: 200px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+.row
+{
+	margin-left: 0px!important;
+	margin-right: 0px!important;
+}
+ .nav-item a.active
+{
+	color: yellow;
+}
+.navbar-brand
+{
+	max-height: 30vh;
+	transition: all 1s;
+	padding:20px;
+	width: 100%;
+}
+.navbar-brand.js-scrolling
+{
+	max-height: 17vh;
+}
+
+.logo
+{transition: all 1s;
+	height: 120px;
+	
+}
+.logo.compressed
+{
+	height: 70px;
+
+}
+.navbar-brand-collapse{
+	height: 20px;
+}

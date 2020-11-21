@@ -1,0 +1,176 @@
+#logo
+{
+	height: 80px;
+	width: 270px;
+}
+#pric1
+{
+	height: auto;
+
+	
+}
+.phase1
+{
+	background-image:url("https://woodlawnservices.com/wp-content/uploads/2018/04/woodlawn-lawncare-service.jpg")!important;
+	height: 570px;
+	width: 100%;
+	padding-left: 0px!important;
+	padding-right: 0px!important;
+	background-size: cover;
+	background-repeat: no-repeat;
+	 margin-top: 130px;
+}
+.ph
+{
+	color: white;
+	text-align: center;
+	    font-size: 80px;
+    font-family: 'Della Respira',Georgia,"Times New Roman",serif;
+    padding-top: 180px;
+
+}
+.content1
+{
+	background-color: rgba(0,0,0,0.48)!important;
+	background-blend-mode: color-burn;
+	height: 570px;
+	width: 100%;
+	padding-left: 0px!important;
+	padding-right: 0px!important;
+}
+.ph2
+{
+	font-size: 30px;
+    font-family: 'Della Respira',Georgia,"Times New Roman",serif;
+    padding-top: 30px;
+    text-align: center;
+}
+#pric2
+{
+	height: auto;
+	width: 100%;
+}
+.ph3
+{
+	text-align: center;
+	font-family: 'Open Sans',Helvetica,Arial,Lucida,sans-serif;
+	font-size: 20px;
+}
+#pric3
+{
+    background-color: #4e943c!important;
+	height: 300px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-top: 50px;
+	padding-top: 4%;
+	padding-left: 0px!important;
+	padding-right: 0px!important;
+	background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI1MHB4IiB2aWV3Qm94PSIwIDAgMTI4MCAxNDAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjQ1KSI+PHBhdGggZD0iTTMyMCAyOEMxNjAgMjggODAgNDkgMCA3MFYwaDEyODB2NzBjLTgwIDIxLTE2MCA0Mi0zMjAgNDItMzIwIDAtMzIwLTg0LTY0MC04NHoiLz48L2c+PC9zdmc+");
+	background-size: 100% 50px;
+    top: 0;
+    z-index: 10;
+}
+.ph4
+{
+	font-family: 'Della Respira',Georgia,"Times New Roman",serif;
+    font-size: 30px;
+    text-align: center;	
+    color: white;
+}
+.button {
+  border-radius: 4px;
+  background-color: transparent;
+  border: none;
+  color:white;
+  text-align: center;
+  font-size: 25px;
+  padding: 10px;
+  width: 220px;
+  transition: all 0.5s;
+  cursor: pointer;
+  border: 1px solid white;
+  margin-top: 30px;
+
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+  width: 200px;
+
+
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+#pric4
+{
+
+	background-color:#222222;
+	height: auto;
+	padding-left: 90px;	
+}
+#foot
+{
+	background-color: black;
+	height: 70px;
+	width: auto;
+	text-align: left;
+	padding-left: 150px;
+	color: white;
+	padding-top: 20px;
+
+}
+.row
+{
+	margin-left:0px!important;
+	margin-right: 0px!important;
+
+}
+.nav-item a.active
+{
+	color: yellow;
+}
+.navbar-brand
+{
+	max-height: 30vh;
+	transition: all 1s;
+	padding:20px;
+	width: 100%;
+}
+.navbar-brand.js-scrolling
+{
+	max-height: 17vh;
+}
+
+.logo
+{transition: all 1s;
+	height: 120px;
+	
+}
+.logo.compressed
+{
+	height: 70px;
+
+}
+.navbar-brand-collapse{
+	height: 20px;
+}
