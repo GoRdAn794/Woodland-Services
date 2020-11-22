@@ -12,7 +12,7 @@ Width:100%;
 {
 	background-image: url("https://woodlawnservices.com/wp-content/uploads/2018/04/contact-for-lawn-service.jpg")!important;
 	height: 570px;
-	width: 100%;
+	width: 100%; 
 	background-size: cover;
 	background-repeat: no-repeat;
 	padding-left: 0px!important;
@@ -105,7 +105,6 @@ h1
   cursor: pointer;
   height: 50px;
   border: 2px solid black;
-  float: right;
   color: #ffffff!important;
   border-color: #4e943c;
   background-color: #4e943c;
