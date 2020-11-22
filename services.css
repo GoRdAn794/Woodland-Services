@@ -61,7 +61,7 @@
  	background-blend-mode: overlay;
  	background-color: rgba(0,0,0,0.58);
  	height: 240px;
- 	width: 300px;
+ 	width:100%;
  	background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -78,7 +78,7 @@
  	background-blend-mode: overlay;
  	background-color: rgba(0,0,0,0.58);
  	height: 240px;
- 	width: 300px;
+ 	width:100%;
  	background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -96,7 +96,7 @@
  	background-blend-mode: overlay;
  	background-color: rgba(0,0,0,0.58);
  	height: 240px;
- 	width: 300px;
+ 	width:100%;
  	background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -108,8 +108,6 @@
  .img
  {
  	display: block;
-    margin-right: auto;
-    margin-left: auto;
         max-width: 100%;
     height: auto;
     padding-top: 20px;
@@ -125,9 +123,6 @@
     line-height: 1em;
     margin-block-start: 1em;
     margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    padding-left: 60px;
  }
  #serv3
  {
@@ -267,7 +262,6 @@ margin-top: 20px;
 
 	background-color:#222222;
 	height: auto;
-	padding-left: 90px;	
 }
 #foot
 {
@@ -275,7 +269,6 @@ margin-top: 20px;
 	height: 70px;
 	width: auto;
 	text-align: left;
-	padding-left: 150px;
 	color: white;
 	padding-top: 20px;
 
