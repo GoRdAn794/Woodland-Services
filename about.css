@@ -4,7 +4,7 @@ h1
 	color: #fff!important;
 	font-family: 'Della Respira',Georgia,"Times New Roman",serif;
 	font-size: 80px;
-	padding: 132px;
+	padding: 100px;
 }
 .imag1
 {
@@ -22,8 +22,6 @@ background: url("pic.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 height: auto;
-padding-left: 0px!important;
-padding-right: 0px!important;
 }
 .contain
 {
@@ -32,8 +30,6 @@ padding-right: 0px!important;
 	background-color: rgba(0,0,0,.5);
 	background-size: cover;
 	background-repeat: no-repeat;
-	padding-left: 0px;
-	padding-right: 0px;
 	margin-top: 130px;
 }
 #sect1
@@ -70,10 +66,10 @@ font-family: 'Della Respira',Georgia,"Times New Roman",serif;
 {
 	background-size: cover;
 	background-repeat: no-repeat;
-	height: 50%;
-	width:60%;
-	padding-right: 150px;
+	height: 70%;
+	width:100%;
 	position: relative;
+        Text-align: Center;
 
 }
 #sect3
@@ -84,8 +80,6 @@ font-family: 'Della Respira',Georgia,"Times New Roman",serif;
 	background-repeat: no-repeat;
 	margin-top: 50px;
 	padding-top: 4%;
-	padding-left: 0px!important;
-	padding-right: 0px!important;
 	background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI1MHB4IiB2aWV3Qm94PSIwIDAgMTI4MCAxNDAiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwwLjQ1KSI+PHBhdGggZD0iTTMyMCAyOEMxNjAgMjggODAgNDkgMCA3MFYwaDEyODB2NzBjLTgwIDIxLTE2MCA0Mi0zMjAgNDItMzIwIDAtMzIwLTg0LTY0MC04NHoiLz48L2c+PC9zdmc+");
 	background-size: 100% 50px;
     top: 0;
