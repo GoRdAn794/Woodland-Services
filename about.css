@@ -4,7 +4,7 @@ h1
 	color: #fff!important;
 	font-family: 'Della Respira',Georgia,"Times New Roman",serif;
 	font-size: 80px;
-	padding: 140px;
+	padding: 132px;
 }
 .imag1
 {
@@ -54,6 +54,7 @@ text-align: center;
 {
 	height: auto;
 	text-align: center;
+        width:100%;
 }
 h3
 {
@@ -95,6 +96,7 @@ font-family: 'Della Respira',Georgia,"Times New Roman",serif;
 
 	background-color:#222222;
 	height: auto;
+        width: 100%;
 
 }
 #foot
