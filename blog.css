@@ -3,6 +3,11 @@
 	height: 80px;
 	width: 270px;
 }
+#blog
+{
+	height: auto;
+	width: 100%;
+}
 a{
 	color: #0c71c3;
 	float: left;
@@ -10,6 +15,7 @@ a{
 .container
 {
 	 margin-top: 130px;
+	 height: auto;
 }
 a:hover
 {
@@ -34,19 +40,18 @@ p
 {
 	    color: #666;
     text-decoration: none;
-    padding-right: 10px;
 }
 .bimage
 {
-width:100%;
-height:10%;
+width: 100%;
+height: 17%;
 background-size: cover;
 background-repeat: no-repeat;
 }
 .bimage2
 {
 width: 100%;
-height:10%;
+height: 10%;
 background-size: cover;
 background-repeat: no-repeat;
 }
@@ -54,14 +59,16 @@ background-repeat: no-repeat;
 {
 
 	background-color:#222222;
-	height: auto;	
+	height: auto;
+	width: 100%
 }
 #foot
 {
 	background-color: black;
-	height: 70px;
+	height: auto;
 	width: auto;
-	text-align: left;
+	padding-left: 10%;
+	padding-right: 10%;
 	color: white;
 	padding-top: 20px;
 
