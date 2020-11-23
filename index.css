@@ -1,6 +1,6 @@
 .hom1
 {
-	background-image: url("/home/cedcoss/Desktop/TeamProject/wood.jpg");
+	background-image: url("wood.jpg");
 	height:auto;
 	width: 100%;
 	padding-left: 0px;
@@ -73,7 +73,7 @@ h1
 }
 #sect2
 {
-	background-image: url("/home/cedcoss/Desktop/nat.jpg");
+	background-image: url("nat.jpg");
 	height: auto;
 	background-size: cover;
 	background-repeat: no-repeat;
