@@ -1,6 +1,6 @@
 .hom1
 {
-	background-image: url("wood.jpg");
+	background-image: url(https://woodlawnservices.com/wp-content/uploads/2018/04/woodlawn-serveces-hero-banner.jpg)!important;
 	height:auto;
 	width: 100%;
 	padding-left: 0px;
@@ -73,7 +73,7 @@ h1
 }
 #sect2
 {
-	background-image: url("nat.jpg");
+	background-image: url(https://images.unsplash.com/photo-1522140607231-7c05952eb779?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MzN8fHxlbnwwfHx8&auto=format&fit=crop&w=500&q=60)!important;
 	height: auto;
 	background-size: cover;
 	background-repeat: no-repeat;
